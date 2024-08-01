@@ -6,7 +6,7 @@ class vars
 	int i=1;
 	while(i<=a)
 		{
-			System.out.println("VARSHINI");
+	System.out.println("praharsha");
 			i++;
 }
 }
